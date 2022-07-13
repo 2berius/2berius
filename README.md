@@ -1,5 +1,5 @@
-Hey, this is 2berius' page. I am a student with rudimentary knowledge of C, Rust, Go, and HTML/CSS, and an intermediate knowledge of Python.
-I hope to learn more about these languages in the future.
+Hey, this is 2berius' page. I am a rising junior (undergraduate) at the University of California, Davis.
+My primary language is Python, but I do have some experience in Go, R, Rust, and C/C++. I hope to learn more about these languages in the future.
 
 Hope you enjoy my page!
 
