@@ -1,5 +1,5 @@
 Hey, this is 2berius' page. I am a rising junior (undergraduate) at the University of California, Davis.
-My primary language is Python, but I do have some experience in Go, R, Rust, and C. I hope to learn more about these languages in the future.
+My primary language is Python, but I also have experience in Go, R, Rust, and C. I hope to learn more about these languages in the future.
 
 Hope you enjoy my page!
 
