@@ -1,7 +1,4 @@
-Hey, this is 2berius's page! I am a rising senior at the University of California, Davis.
-My primary language is Python, but I also have experience in Assembly, C/C++, and R. I hope to learn more about these languages in the future.
-
-Hope you enjoy my page!
+Hey, this is 2berius. Hope you enjoy my page!
 
 <!---
 2berius/2berius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
